@@ -52,15 +52,13 @@
 
 
 
- </a>
 
- ![Gmail Badge](https://img.shields.io/badge/-mugunthaadhi123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mugunthaadhi123@gmail.com)
-
-</a>                                                                      
+ 
+                                                                    
  
  </a>
 <a href="https://www.linkedin.com/in/mugunthan-l-45a843175/">
   <img align="left" alt="Mugunthan L LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
                       
-                                                                        
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mugunthaadhi123@gmail.com)](mailto:mugunthaadhi123@gmail.com)                                                                        
