@@ -5,7 +5,7 @@
 
 
 ### About Me 💻 &nbsp;
-  I Have Completed My bachelor's degree in B.Tech computer science in 2021 passed out from Bharath Institute of Higher Education And Research       tambaram,Chennai.Now, I'm Completed 𝐏𝐨𝐬𝐭𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 at Imarticus Learning.
+  I Have Completed My bachelor's degree in B.Tech computer science in 2021 passed out from Bharath Institute of Higher Education And Research       tambaram,Chennai.Now, I have Completed 𝐏𝐨𝐬𝐭𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 at Imarticus Learning.
   
    <br>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px> </h2>
